@@ -2,6 +2,7 @@
 - 👀 I’m interested in designing strong Artificial Intelligence 
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate with large community developers
+- I'm now into UI/UX designing and enjoying doing this.
 - 📫 How to reach me you can mail me at 46gauravkumar@gmail.com
 
 <!---
